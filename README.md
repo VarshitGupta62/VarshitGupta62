@@ -3,6 +3,10 @@
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hello, I'm Varshit
 
 - 🌱 I’m currently learning **javascript**
+  
+- 👨‍💻 All of my projects are available at [VarshitGupta62](https://github.com/VarshitGupta62?tab=repositories)
+
+- 💬 Ask me about **javascript**
 
 
 <br/>
