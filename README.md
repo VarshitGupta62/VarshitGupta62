@@ -11,7 +11,7 @@
 
 <br/>
 
-# GitHub Status :
+## GitHub Status :
 
 <div align="center" >
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshitgupta62&show_icons=true&locale=en" alt="varshitgupta62" /></p>
@@ -32,7 +32,7 @@
 ### Best frameworks and main libraries for  JavaScript:
 
 | React.js | Redux | 
-|----------|-------------|-----------------|--------------|
+|----------|-------------| 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="React Redux" alt="React Redux" width="55" height="55"/> |  
 
 ### My tools for Data Manipulation & Visualisation:
