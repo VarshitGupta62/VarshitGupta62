@@ -13,15 +13,6 @@
 <div align="center" >
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshitgupta62&show_icons=true&locale=en" alt="varshitgupta62" /></p>
 </div>
- 
-
-  <p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Cool Image 2">
-</p>
-
-<p align="center">
-  🌟 Star my repositories if you find them interesting!
-</p>
 
 
 ## Language and Tools
@@ -63,4 +54,11 @@
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
+  <p align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Cool Image 2">
+</p>
+
+<p align="center">
+  🌟 Star my repositories if you find them interesting!
+</p>
 
