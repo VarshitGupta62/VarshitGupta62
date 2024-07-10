@@ -28,9 +28,9 @@
 
 ### Best frameworks and main libraries for  JavaScript:
 
-| React.js | React Redux | React Hook Form | React Router |
+| React.js | Redux | 
 |----------|-------------|-----------------|--------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="React Redux" alt="React Redux" width="55" height="55"/> | <img src="https://react-hook-form.com/images/logo.svg" title="React Hook Form" alt="React Hook Form" width="55" height="55"/> | <img src="https://reactrouter.com/static/ae1cd5a64aede81f29fdd7a560f8cb89/6b04e/react-router-logo.svg" title="React Router" alt="React Router" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="React Redux" alt="React Redux" width="55" height="55"/> |  
 
 ### My tools for Data Manipulation & Visualisation:
 
