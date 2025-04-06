@@ -38,9 +38,10 @@
 
 ### Best Frameworks for PHP:
 
-| CodeIgniter |
-|-------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="CodeIgniter" alt="CodeIgniter" width="55" height="55"/> |
+| CodeIgniter | Laravel |
+|-------------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="CodeIgniter" alt="CodeIgniter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="55" height="55"/> |
+
 
 ### My tools for Data Manipulation & Visualisation:
 
