@@ -16,10 +16,14 @@ Building scalable and modern web applications using **React, Node.js, Laravel, M
 
 <br/>
 
-## GitHub Stats 
+## 📊 GitHub Stats
 
-<div align="center" >
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshitgupta62&show_icons=true&locale=en" alt="varshitgupta62" /></p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VarshitGupta62&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshitGupta62&layout=compact&theme=tokyonight" />
+
 </div>
 
 
