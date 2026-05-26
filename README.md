@@ -1,12 +1,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshitgupta62&label=Profile%20views&color=0e75b6&style=flat" alt="varshitgupta62" /> </p>
 
-#  Hello, I'm Varshit
+# Hello, I'm Varshit 👋
 
-- 🌱 I’m currently learning **JavaScript**
-  
-- 👨‍💻 All of my projects are available at [VarshitGupta62](https://github.com/VarshitGupta62?tab=repositories)
+🚀 **Full Stack Developer | AI Engineer**
 
-- 💬 Ask me about **JavaScript**
+Building scalable and modern web applications using **React, Node.js, Laravel, MongoDB, and PostgreSQL**.
+
+🌱 Currently exploring **Modern JavaScript, AI Technologies, and Scalable Backend Systems**.
+
+👨‍💻 **Projects & Open Source:**  
+🔗 https://github.com/VarshitGupta62
+
+💬 Ask me about **JavaScript, MERN Stack, Full Stack Development, and AI Apps**.
 
 
 <br/>
