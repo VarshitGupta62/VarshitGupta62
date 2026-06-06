@@ -6,7 +6,7 @@
 
 Building scalable and modern web applications using **React, Node.js, Laravel, MongoDB, and PostgreSQL**.
 
-🌱 Currently exploring **Data Structures & Algorithms (DSA)**, **AI Technologies**, **System Design (HLD & LLD)**, and **Scalable Backend Systems**.
+🌱 Currently learning **Data Structures & Algorithms (DSA)**, **AI Technologies**, **System Design (HLD & LLD)**, and **Scalable Backend Systems**.
 
 👨‍💻 **Projects & Open Source:**  
 🔗 https://github.com/VarshitGupta62
